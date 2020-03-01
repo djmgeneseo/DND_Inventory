@@ -1,0 +1,15 @@
+{
+  "name": "dnd_inventory",
+  "version": "1.0.0",
+  "description": "Mobile application that lets players track their inventory in a convenient UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2~\u0016https://github.com/djmgeneseo/DND_Inventory.git"
+  },
+  "author": "David Murphy",
+  "license": "ISC"
+}
